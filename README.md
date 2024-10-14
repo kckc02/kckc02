@@ -1,4 +1,5 @@
-## About me 👋
+# About me 👋
+
 
 I'm a final-year software engineering student passionate about technology, coding, and building projects that solve real-world problems.
 
@@ -12,6 +13,7 @@ I'm a final-year software engineering student passionate about technology, codin
 - 🤔 I’m looking for help with positioning myself in the computer science industry after my graduation.
   
 - 📫 How to reach me: kahchun2002@gmail.com
-- 
+
 - ⚡ Fun fact: There is no fun fact about me.
--->
+
+Thank you, next.
